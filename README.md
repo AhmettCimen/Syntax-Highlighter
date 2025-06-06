@@ -89,6 +89,7 @@ python gui.py
 
 ## 📹 Video
 Projenin demo videosuna ulaşmak için aşağıdaki bağlantıya tıklayabilirsiniz:
+
 👉[Demo](https://youtu.be/YMSuiHKyzNw)
 
 ### 📘 Proje Raporu  
