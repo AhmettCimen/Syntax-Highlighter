@@ -57,7 +57,7 @@ Token tipleri:
 | Yorumlar               | Açık Yeşil        | `// Bu bir yorum`       |
 | Preprocessorlar        | Mor               | `#include`              |
 | Sayılar                | Kırmızı           | `42`, `3.14`            |
-| Operatörler            | Siyah             | `+`, `-`, `*`, `/`      |
+| Operatörler            | Magenta           | `+`, `-`, `*`, `/`      |
 | Parametreler           | Turuncu           | `void foo(int param)`   |
 | Hata Vurgulaması       | Kırmızı Arka Plan | Sözdizimi hataları      |
 
