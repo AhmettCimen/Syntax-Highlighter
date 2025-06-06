@@ -88,10 +88,7 @@ python gui.py
 4. Token listesi ve ayrıştırma ağacını incelemek için ilgili sekmeleri kullanın
 
 ## 📹 Video
-
-[Video linki eklenecek](https://youtu.be/YMSuiHKyzNw)
-
-
+[Demo](https://youtu.be/YMSuiHKyzNw)
 
 ### 📘 Proje Raporu  
 Geliştirme sürecini, teknik detayları ve test çıktılarının yer aldığı proje raporunu aşağıdaki bağlantıdan indirebilirsiniz:  
