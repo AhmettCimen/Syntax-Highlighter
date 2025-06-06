@@ -91,3 +91,13 @@ python gui.py
 ## 📹 Video
 
 [Video linki eklenecek]
+
+
+
+### 📘 Proje Raporu  
+Geliştirme sürecini, teknik detayları ve test çıktılarının yer aldığı proje raporunu aşağıdaki bağlantıdan indirebilirsiniz:  
+👉 [Raporu İndir (.docx)](https://github.com/AhmettCimen/Syntax-Highlighter/raw/main/Rapor.docx)
+
+### 📰 Makale  
+Bu projeye ilişkin akademik değerlendirme ve teknik yazıya aşağıdaki bağlantıdan ulaşabilirsiniz:  
+👉 [Projeye Ait Makaleyi Görüntüle](https://medium.com/@kalradyanineniyisi/real-time-syntax-highlighter-528f52371383)
