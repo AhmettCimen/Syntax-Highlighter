@@ -58,7 +58,6 @@ Token tipleri:
 | Preprocessorlar        | Mor               | `#include`              |
 | Sayılar                | Kırmızı           | `42`, `3.14`            |
 | Operatörler            | Magenta           | `+`, `-`, `*`, `/`      |
-| Parametreler           | Turuncu           | `void foo(int param)`   |
 | Hata Vurgulaması       | Kırmızı Arka Plan | Sözdizimi hataları      |
 
 ## 💻 Kurulum
