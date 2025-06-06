@@ -89,7 +89,7 @@ python gui.py
 
 ## 📹 Video
 
-[Video linki eklenecek]
+[Video linki eklenecek](https://youtu.be/YMSuiHKyzNw)
 
 
 
