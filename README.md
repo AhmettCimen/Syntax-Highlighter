@@ -67,7 +67,7 @@ Token tipleri:
 2. Projeyi klonlayın:
 
 ```bash
-git clone [https://github.com/AhmettCimen/Syntax-Highlighter]
+git clone https://github.com/AhmettCimen/Syntax-Highlighter
 ```
 
 3. Gerekli bağımlılıkları yükleyin:
